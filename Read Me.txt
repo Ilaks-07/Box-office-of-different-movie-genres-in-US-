@@ -1,0 +1,21 @@
+Analyzed a dataset of movie collections using R programming containing the following columns:
+•	Day of Week
+•	Director
+•	Genre
+•	Movie Title
+•	Release Date
+•	Studio
+•	Adjusted Gross ($mill)
+•	Budget ($mill)
+•	Gross ($mill)
+•	IMDb Rating
+•	Movie Lens Rating
+•	Overseas ($mill)
+•	Overseas%
+•	Profit ($mill)
+•	Profit%
+•	Runtime (min)
+•	US ($mill)
+•	Gross % US
+Presented a graphical representation (Boxplot) of the dataset for the Domestic Gross % by Genre with respect to Budget and selected Studios using a ggplot.
+Reference: Kirill Eremenko, 2018, “R Programming A-Z”, Cited: https://www.superdatascience.com/pages/rcourse/Section6.
